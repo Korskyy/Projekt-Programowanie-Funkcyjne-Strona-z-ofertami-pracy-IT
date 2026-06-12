@@ -1,3 +1,6 @@
+Mariusz Kowalski  
+
+
 (filtrowanie ofert najlepiej działa na generowanych ofertach pracy więc filtrowanie polecałbym generalnie na tych danych)  
 # IT Job Board    
 Aplikacja web do przeszukiwania ofert pracy w IT i analizy rynku  
