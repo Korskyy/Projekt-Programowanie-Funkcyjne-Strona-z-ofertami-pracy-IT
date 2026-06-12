@@ -1,0 +1,11 @@
+# Backend
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+pydantic>=2.6
+
+# Pobieranie ofert (RemoteOK, Arbeitnow) i generator danych
+requests>=2.31
+
+# Analiza danych / statystyki (/api/stats)
+pandas>=2.2
