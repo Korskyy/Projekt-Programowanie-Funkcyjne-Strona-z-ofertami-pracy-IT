@@ -56,13 +56,13 @@ uvicorn main:app --reload
 
 ## 6. Struktura 
 
-it-job-board/
-    main.py          # API
-    db.py             # model SQLAlchemy (JobOffer) + konfiguracja SQLite
-    schemas.py        # Pydantic
-    update_db.py      # pobieranie ofert i generator
-    tech_data.py      # baza wiedzy
-    requirements.txt
-    static/
-        index.html    # front
-    it_jobs.db        # baza SQLite
+it-job-board/  
+    main.py          # API  
+    db.py             # model SQLAlchemy (JobOffer) + konfiguracja SQLite  
+    schemas.py        # Pydantic  
+    update_db.py      # pobieranie ofert i generator  
+    tech_data.py      # baza wiedzy  
+    requirements.txt  
+    static/  
+        index.html    # front  
+    it_jobs.db        # baza SQLite  
