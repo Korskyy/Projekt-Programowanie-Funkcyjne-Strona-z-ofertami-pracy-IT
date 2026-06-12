@@ -48,7 +48,9 @@ Domyślny klucz: admin123
 
 Aby ustawić własny klucz, przed uruchomieniem serwera:
 export ADMIN_KEY="moj-tajny-klucz"      
+
 Windows: set ADMIN_KEY=moj-tajny-klucz
+
 uvicorn main:app --reload
 
 
